@@ -1,0 +1,501 @@
+Cliente 36: kikao indisponível
+Fornecedor: pão entregue. Estoque: 1
+Fornecedor: salsicha entregue. Estoque: 1
+Fornecedor: molho entregue. Estoque: 1
+Cliente 46: kikao recebido. Estoque: pão 0, salsicha 0, molho 0
+Cliente 46: kikao consumido
+Cliente 63: kikao indisponível
+Fornecedor: pão entregue. Estoque: 1
+Fornecedor: salsicha entregue. Estoque: 1
+Fornecedor: molho entregue. Estoque: 1
+Cliente 66: kikao recebido. Estoque: pão 0, salsicha 0, molho 0
+Cliente 66: kikao consumido
+Cliente 55: kikao indisponível
+Cliente 1: kikao indisponível
+Cliente 100: kikao indisponível
+Cliente 6: kikao indisponível
+Cliente 12: kikao indisponível
+Cliente 25: kikao indisponível
+Cliente 56: kikao indisponível
+Cliente 79: kikao indisponível
+Cliente 54: kikao indisponível
+Cliente 8: kikao indisponível
+Cliente 47: kikao indisponível
+Cliente 57: kikao indisponível
+Cliente 14: kikao indisponível
+Cliente 20: kikao indisponível
+Cliente 96: kikao indisponível
+Cliente 88: kikao indisponível
+Cliente 90: kikao indisponível
+Cliente 76: kikao indisponível
+Cliente 92: kikao indisponível
+Cliente 80: kikao indisponível
+Cliente 44: kikao indisponível
+Cliente 52: kikao indisponível
+Cliente 81: kikao indisponível
+Cliente 91: kikao indisponível
+Cliente 93: kikao indisponível
+Cliente 82: kikao indisponível
+Cliente 58: kikao indisponível
+Cliente 18: kikao indisponível
+Cliente 94: kikao indisponível
+Cliente 62: kikao indisponível
+Cliente 21: kikao indisponível
+Cliente 97: kikao indisponível
+Cliente 70: kikao indisponível
+Cliente 74: kikao indisponível
+Cliente 30: kikao indisponível
+Cliente 68: kikao indisponível
+Cliente 86: kikao indisponível
+Cliente 64: kikao indisponível
+Cliente 5: kikao indisponível
+Cliente 53: kikao indisponível
+Cliente 59: kikao indisponível
+Cliente 7: kikao indisponível
+Fornecedor: pão entregue. Estoque: 1
+Fornecedor: salsicha entregue. Estoque: 1
+Fornecedor: molho entregue. Estoque: 1
+Fornecedor: pão entregue. Estoque: 2
+Fornecedor: salsicha entregue. Estoque: 2
+Fornecedor: molho entregue. Estoque: 2
+Fornecedor: pão entregue. Estoque: 3
+Fornecedor: salsicha entregue. Estoque: 3
+Fornecedor: molho entregue. Estoque: 3
+Fornecedor: pão entregue. Estoque: 4
+Fornecedor: salsicha entregue. Estoque: 4
+Fornecedor: molho entregue. Estoque: 4
+Fornecedor: pão entregue. Estoque: 5
+Fornecedor: salsicha entregue. Estoque: 5
+Fornecedor: molho entregue. Estoque: 5
+Fornecedor: pão entregue. Estoque: 6
+Fornecedor: salsicha entregue. Estoque: 6
+Fornecedor: molho entregue. Estoque: 6
+Fornecedor: pão entregue. Estoque: 7
+Fornecedor: salsicha entregue. Estoque: 7
+Fornecedor: molho entregue. Estoque: 7
+Fornecedor: pão entregue. Estoque: 8
+Fornecedor: salsicha entregue. Estoque: 8
+Fornecedor: molho entregue. Estoque: 8
+Fornecedor: pão entregue. Estoque: 9
+Fornecedor: salsicha entregue. Estoque: 9
+Fornecedor: molho entregue. Estoque: 9
+Fornecedor: pão entregue. Estoque: 10
+Fornecedor: salsicha entregue. Estoque: 10
+Fornecedor: molho entregue. Estoque: 10
+Fornecedor: pão entregue. Estoque: 11
+Fornecedor: salsicha entregue. Estoque: 11
+Fornecedor: molho entregue. Estoque: 11
+Fornecedor: pão entregue. Estoque: 12
+Fornecedor: salsicha entregue. Estoque: 12
+Fornecedor: molho entregue. Estoque: 12
+Fornecedor: pão entregue. Estoque: 13
+Fornecedor: salsicha entregue. Estoque: 13
+Fornecedor: molho entregue. Estoque: 13
+Fornecedor: pão entregue. Estoque: 14
+Fornecedor: salsicha entregue. Estoque: 14
+Fornecedor: molho entregue. Estoque: 14
+Fornecedor: pão entregue. Estoque: 15
+Fornecedor: salsicha entregue. Estoque: 15
+Fornecedor: molho entregue. Estoque: 15
+Fornecedor: pão entregue. Estoque: 16
+Fornecedor: salsicha entregue. Estoque: 16
+Fornecedor: molho entregue. Estoque: 16
+Fornecedor: pão entregue. Estoque: 17
+Fornecedor: salsicha entregue. Estoque: 17
+Fornecedor: molho entregue. Estoque: 17
+Fornecedor: pão entregue. Estoque: 18
+Fornecedor: salsicha entregue. Estoque: 18
+Fornecedor: molho entregue. Estoque: 18
+Fornecedor: pão entregue. Estoque: 19
+Fornecedor: salsicha entregue. Estoque: 19
+Fornecedor: molho entregue. Estoque: 19
+Fornecedor: pão entregue. Estoque: 20
+Fornecedor: salsicha entregue. Estoque: 20
+Fornecedor: molho entregue. Estoque: 20
+Fornecedor: pão entregue. Estoque: 21
+Fornecedor: salsicha entregue. Estoque: 21
+Fornecedor: molho entregue. Estoque: 21
+Fornecedor: pão entregue. Estoque: 22
+Fornecedor: salsicha entregue. Estoque: 22
+Fornecedor: molho entregue. Estoque: 22
+Fornecedor: pão entregue. Estoque: 23
+Fornecedor: salsicha entregue. Estoque: 23
+Fornecedor: molho entregue. Estoque: 23
+Fornecedor: pão entregue. Estoque: 24
+Fornecedor: salsicha entregue. Estoque: 24
+Fornecedor: molho entregue. Estoque: 24
+Fornecedor: pão entregue. Estoque: 25
+Fornecedor: salsicha entregue. Estoque: 25
+Fornecedor: molho entregue. Estoque: 25
+Fornecedor: pão entregue. Estoque: 26
+Fornecedor: salsicha entregue. Estoque: 26
+Fornecedor: molho entregue. Estoque: 26
+Fornecedor: pão entregue. Estoque: 27
+Fornecedor: salsicha entregue. Estoque: 27
+Fornecedor: molho entregue. Estoque: 27
+Fornecedor: pão entregue. Estoque: 28
+Fornecedor: salsicha entregue. Estoque: 28
+Fornecedor: molho entregue. Estoque: 28
+Fornecedor: pão entregue. Estoque: 29
+Fornecedor: salsicha entregue. Estoque: 29
+Fornecedor: molho entregue. Estoque: 29
+Fornecedor: pão entregue. Estoque: 30
+Fornecedor: salsicha entregue. Estoque: 30
+Fornecedor: molho entregue. Estoque: 30
+Fornecedor: pão entregue. Estoque: 31
+Fornecedor: salsicha entregue. Estoque: 31
+Fornecedor: molho entregue. Estoque: 31
+Fornecedor: pão entregue. Estoque: 32
+Fornecedor: salsicha entregue. Estoque: 32
+Fornecedor: molho entregue. Estoque: 32
+Fornecedor: pão entregue. Estoque: 33
+Fornecedor: salsicha entregue. Estoque: 33
+Fornecedor: molho entregue. Estoque: 33
+Fornecedor: pão entregue. Estoque: 34
+Fornecedor: salsicha entregue. Estoque: 34
+Fornecedor: molho entregue. Estoque: 34
+Fornecedor: pão entregue. Estoque: 35
+Fornecedor: salsicha entregue. Estoque: 35
+Fornecedor: molho entregue. Estoque: 35
+Fornecedor: pão entregue. Estoque: 36
+Fornecedor: salsicha entregue. Estoque: 36
+Fornecedor: molho entregue. Estoque: 36
+Fornecedor: pão entregue. Estoque: 37
+Fornecedor: salsicha entregue. Estoque: 37
+Fornecedor: molho entregue. Estoque: 37
+Fornecedor: pão entregue. Estoque: 38
+Fornecedor: salsicha entregue. Estoque: 38
+Fornecedor: molho entregue. Estoque: 38
+Fornecedor: pão entregue. Estoque: 39
+Fornecedor: salsicha entregue. Estoque: 39
+Fornecedor: molho entregue. Estoque: 39
+Fornecedor: pão entregue. Estoque: 40
+Fornecedor: salsicha entregue. Estoque: 40
+Fornecedor: molho entregue. Estoque: 40
+Fornecedor: pão entregue. Estoque: 41
+Fornecedor: salsicha entregue. Estoque: 41
+Fornecedor: molho entregue. Estoque: 41
+Fornecedor: pão entregue. Estoque: 42
+Fornecedor: salsicha entregue. Estoque: 42
+Fornecedor: molho entregue. Estoque: 42
+Fornecedor: pão entregue. Estoque: 43
+Fornecedor: salsicha entregue. Estoque: 43
+Fornecedor: molho entregue. Estoque: 43
+Fornecedor: pão entregue. Estoque: 44
+Fornecedor: salsicha entregue. Estoque: 44
+Fornecedor: molho entregue. Estoque: 44
+Cliente 16: kikao recebido. Estoque: pão 43, salsicha 43, molho 43
+Cliente 16: kikao consumido
+Cliente 38: kikao recebido. Estoque: pão 42, salsicha 42, molho 42
+Cliente 38: kikao consumido
+Cliente 72: kikao recebido. Estoque: pão 41, salsicha 41, molho 41
+Cliente 72: kikao consumido
+Cliente 17: kikao recebido. Estoque: pão 40, salsicha 40, molho 40
+Cliente 17: kikao consumido
+Cliente 49: kikao recebido. Estoque: pão 39, salsicha 39, molho 39
+Cliente 49: kikao consumido
+Cliente 40: kikao recebido. Estoque: pão 38, salsicha 38, molho 38
+Cliente 40: kikao consumido
+Cliente 41: kikao recebido. Estoque: pão 37, salsicha 37, molho 37
+Cliente 41: kikao consumido
+Cliente 24: kikao recebido. Estoque: pão 36, salsicha 36, molho 36
+Cliente 24: kikao consumido
+Cliente 32: kikao recebido. Estoque: pão 35, salsicha 35, molho 35
+Cliente 32: kikao consumido
+Cliente 75: kikao recebido. Estoque: pão 34, salsicha 34, molho 34
+Cliente 75: kikao consumido
+Cliente 48: kikao recebido. Estoque: pão 33, salsicha 33, molho 33
+Cliente 48: kikao consumido
+Cliente 50: kikao recebido. Estoque: pão 32, salsicha 32, molho 32
+Cliente 50: kikao consumido
+Cliente 3: kikao recebido. Estoque: pão 31, salsicha 31, molho 31
+Cliente 3: kikao consumido
+Cliente 22: kikao recebido. Estoque: pão 30, salsicha 30, molho 30
+Cliente 22: kikao consumido
+Cliente 26: kikao recebido. Estoque: pão 29, salsicha 29, molho 29
+Cliente 26: kikao consumido
+Cliente 23: kikao recebido. Estoque: pão 28, salsicha 28, molho 28
+Cliente 23: kikao consumido
+Cliente 77: kikao recebido. Estoque: pão 27, salsicha 27, molho 27
+Cliente 77: kikao consumido
+Cliente 61: kikao recebido. Estoque: pão 26, salsicha 26, molho 26
+Cliente 61: kikao consumido
+Cliente 13: kikao recebido. Estoque: pão 25, salsicha 25, molho 25
+Cliente 13: kikao consumido
+Cliente 87: kikao recebido. Estoque: pão 24, salsicha 24, molho 24
+Cliente 87: kikao consumido
+Cliente 43: kikao recebido. Estoque: pão 23, salsicha 23, molho 23
+Cliente 43: kikao consumido
+Cliente 95: kikao recebido. Estoque: pão 22, salsicha 22, molho 22
+Cliente 95: kikao consumido
+Cliente 29: kikao recebido. Estoque: pão 21, salsicha 21, molho 21
+Cliente 29: kikao consumido
+Cliente 51: kikao recebido. Estoque: pão 20, salsicha 20, molho 20
+Cliente 51: kikao consumido
+Cliente 35: kikao recebido. Estoque: pão 19, salsicha 19, molho 19
+Cliente 35: kikao consumido
+Cliente 71: kikao recebido. Estoque: pão 18, salsicha 18, molho 18
+Cliente 71: kikao consumido
+Cliente 34: kikao recebido. Estoque: pão 17, salsicha 17, molho 17
+Cliente 34: kikao consumido
+Cliente 45: kikao recebido. Estoque: pão 16, salsicha 16, molho 16
+Cliente 45: kikao consumido
+Cliente 84: kikao recebido. Estoque: pão 15, salsicha 15, molho 15
+Cliente 84: kikao consumido
+Cliente 69: kikao recebido. Estoque: pão 14, salsicha 14, molho 14
+Cliente 69: kikao consumido
+Cliente 9: kikao recebido. Estoque: pão 13, salsicha 13, molho 13
+Cliente 9: kikao consumido
+Cliente 27: kikao recebido. Estoque: pão 12, salsicha 12, molho 12
+Cliente 27: kikao consumido
+Cliente 85: kikao recebido. Estoque: pão 11, salsicha 11, molho 11
+Cliente 85: kikao consumido
+Cliente 42: kikao recebido. Estoque: pão 10, salsicha 10, molho 10
+Cliente 42: kikao consumido
+Cliente 31: kikao recebido. Estoque: pão 9, salsicha 9, molho 9
+Cliente 31: kikao consumido
+Cliente 89: kikao recebido. Estoque: pão 8, salsicha 8, molho 8
+Cliente 89: kikao consumido
+Cliente 73: kikao recebido. Estoque: pão 7, salsicha 7, molho 7
+Cliente 73: kikao consumido
+Cliente 28: kikao recebido. Estoque: pão 6, salsicha 6, molho 6
+Cliente 28: kikao consumido
+Cliente 11: kikao recebido. Estoque: pão 5, salsicha 5, molho 5
+Cliente 11: kikao consumido
+Cliente 65: kikao recebido. Estoque: pão 4, salsicha 4, molho 4
+Cliente 65: kikao consumido
+Cliente 10: kikao recebido. Estoque: pão 3, salsicha 3, molho 3
+Cliente 10: kikao consumido
+Cliente 39: kikao recebido. Estoque: pão 2, salsicha 2, molho 2
+Cliente 39: kikao consumido
+Cliente 37: kikao recebido. Estoque: pão 1, salsicha 1, molho 1
+Cliente 37: kikao consumido
+Cliente 83: kikao recebido. Estoque: pão 0, salsicha 0, molho 0
+Cliente 83: kikao consumido
+Cliente 19: kikao indisponível
+Cliente 33: kikao indisponível
+Cliente 60: kikao indisponível
+Cliente 2: kikao indisponível
+Cliente 67: kikao indisponível
+Cliente 78: kikao indisponível
+Cliente 4: kikao indisponível
+Cliente 99: kikao indisponível
+Cliente 98: kikao indisponível
+Cliente 15: kikao indisponível
+Fornecedor: pão entregue. Estoque: 1
+Fornecedor: salsicha entregue. Estoque: 1
+Fornecedor: molho entregue. Estoque: 1
+Fornecedor: pão entregue. Estoque: 2
+Fornecedor: salsicha entregue. Estoque: 2
+Fornecedor: molho entregue. Estoque: 2
+Fornecedor: pão entregue. Estoque: 3
+Fornecedor: salsicha entregue. Estoque: 3
+Fornecedor: molho entregue. Estoque: 3
+Fornecedor: pão entregue. Estoque: 4
+Fornecedor: salsicha entregue. Estoque: 4
+Fornecedor: molho entregue. Estoque: 4
+Fornecedor: pão entregue. Estoque: 5
+Fornecedor: salsicha entregue. Estoque: 5
+Fornecedor: molho entregue. Estoque: 5
+Fornecedor: pão entregue. Estoque: 6
+Fornecedor: salsicha entregue. Estoque: 6
+Fornecedor: molho entregue. Estoque: 6
+Fornecedor: pão entregue. Estoque: 7
+Fornecedor: salsicha entregue. Estoque: 7
+Fornecedor: molho entregue. Estoque: 7
+Fornecedor: pão entregue. Estoque: 8
+Fornecedor: salsicha entregue. Estoque: 8
+Fornecedor: molho entregue. Estoque: 8
+Fornecedor: pão entregue. Estoque: 9
+Fornecedor: salsicha entregue. Estoque: 9
+Fornecedor: molho entregue. Estoque: 9
+Fornecedor: pão entregue. Estoque: 10
+Fornecedor: salsicha entregue. Estoque: 10
+Fornecedor: molho entregue. Estoque: 10
+Fornecedor: pão entregue. Estoque: 11
+Fornecedor: salsicha entregue. Estoque: 11
+Fornecedor: molho entregue. Estoque: 11
+Fornecedor: pão entregue. Estoque: 12
+Fornecedor: salsicha entregue. Estoque: 12
+Fornecedor: molho entregue. Estoque: 12
+Fornecedor: pão entregue. Estoque: 13
+Fornecedor: salsicha entregue. Estoque: 13
+Fornecedor: molho entregue. Estoque: 13
+Fornecedor: pão entregue. Estoque: 14
+Fornecedor: salsicha entregue. Estoque: 14
+Fornecedor: molho entregue. Estoque: 14
+Fornecedor: pão entregue. Estoque: 15
+Fornecedor: salsicha entregue. Estoque: 15
+Fornecedor: molho entregue. Estoque: 15
+Fornecedor: pão entregue. Estoque: 16
+Fornecedor: salsicha entregue. Estoque: 16
+Fornecedor: molho entregue. Estoque: 16
+Fornecedor: pão entregue. Estoque: 17
+Fornecedor: salsicha entregue. Estoque: 17
+Fornecedor: molho entregue. Estoque: 17
+Fornecedor: pão entregue. Estoque: 18
+Fornecedor: salsicha entregue. Estoque: 18
+Fornecedor: molho entregue. Estoque: 18
+Fornecedor: pão entregue. Estoque: 19
+Fornecedor: salsicha entregue. Estoque: 19
+Fornecedor: molho entregue. Estoque: 19
+Fornecedor: pão entregue. Estoque: 20
+Fornecedor: salsicha entregue. Estoque: 20
+Fornecedor: molho entregue. Estoque: 20
+Fornecedor: pão entregue. Estoque: 21
+Fornecedor: salsicha entregue. Estoque: 21
+Fornecedor: molho entregue. Estoque: 21
+Fornecedor: pão entregue. Estoque: 22
+Fornecedor: salsicha entregue. Estoque: 22
+Fornecedor: molho entregue. Estoque: 22
+Fornecedor: pão entregue. Estoque: 23
+Fornecedor: salsicha entregue. Estoque: 23
+Fornecedor: molho entregue. Estoque: 23
+Fornecedor: pão entregue. Estoque: 24
+Fornecedor: salsicha entregue. Estoque: 24
+Fornecedor: molho entregue. Estoque: 24
+Fornecedor: pão entregue. Estoque: 25
+Fornecedor: salsicha entregue. Estoque: 25
+Fornecedor: molho entregue. Estoque: 25
+Fornecedor: pão entregue. Estoque: 26
+Fornecedor: salsicha entregue. Estoque: 26
+Fornecedor: molho entregue. Estoque: 26
+Fornecedor: pão entregue. Estoque: 27
+Fornecedor: salsicha entregue. Estoque: 27
+Fornecedor: molho entregue. Estoque: 27
+Fornecedor: pão entregue. Estoque: 28
+Fornecedor: salsicha entregue. Estoque: 28
+Fornecedor: molho entregue. Estoque: 28
+Fornecedor: pão entregue. Estoque: 29
+Fornecedor: salsicha entregue. Estoque: 29
+Fornecedor: molho entregue. Estoque: 29
+Fornecedor: pão entregue. Estoque: 30
+Fornecedor: salsicha entregue. Estoque: 30
+Fornecedor: molho entregue. Estoque: 30
+Fornecedor: pão entregue. Estoque: 31
+Fornecedor: salsicha entregue. Estoque: 31
+Fornecedor: molho entregue. Estoque: 31
+Fornecedor: pão entregue. Estoque: 32
+Fornecedor: salsicha entregue. Estoque: 32
+Fornecedor: molho entregue. Estoque: 32
+Fornecedor: pão entregue. Estoque: 33
+Fornecedor: salsicha entregue. Estoque: 33
+Fornecedor: molho entregue. Estoque: 33
+Fornecedor: pão entregue. Estoque: 34
+Fornecedor: salsicha entregue. Estoque: 34
+Fornecedor: molho entregue. Estoque: 34
+Fornecedor: pão entregue. Estoque: 35
+Fornecedor: salsicha entregue. Estoque: 35
+Fornecedor: molho entregue. Estoque: 35
+Fornecedor: pão entregue. Estoque: 36
+Fornecedor: salsicha entregue. Estoque: 36
+Fornecedor: molho entregue. Estoque: 36
+Fornecedor: pão entregue. Estoque: 37
+Fornecedor: salsicha entregue. Estoque: 37
+Fornecedor: molho entregue. Estoque: 37
+Fornecedor: pão entregue. Estoque: 38
+Fornecedor: salsicha entregue. Estoque: 38
+Fornecedor: molho entregue. Estoque: 38
+Fornecedor: pão entregue. Estoque: 39
+Fornecedor: salsicha entregue. Estoque: 39
+Fornecedor: molh entregue. Estoque: 6
+Fornecedor: salsicha entregue. Estoque: 6
+Fornecedor: molho entregue. Estoque: 6
+Fornecedor: pão entregue. Estoque: 7
+Fornecedor: salsicha entregue. Estoque: 7
+Fornecedor: molho entregue. Estoque: 7
+Fornecedor: pão entregue. Estoque: 8
+Fornecedor: salsicha entregue. Estoque: 8
+Fornecedor: molho entregue. Estoque: 8
+Fornecedor: pão entregue. Estoque: 9
+Fornecedor: salsicha entregue. Estoque: 9
+Fornecedor: molho entregue. Estoque: 9
+Fornecedor: pão entregue. Estoque: 10
+Fornecedor: salsicha entregue. Estoque: 10
+Fornecedor: molho entregue. Estoque: 10
+Fornecedor: pão entregue. Estoque: 11
+Fornecedor: salsicha entregue. Estoque: 11
+Fornecedor: molho entregue. Estoque: 11
+Fornecedor: pão entregue. Estoque: 12
+Fornecedor: salsicha entregue. Estoque: 12
+Fornecedor: molho entregue. Estoque: 12
+Fornecedor: pão entregue. Estoque: 13
+Fornecedor: salsicha entregue. Estoque: 13
+Fornecedor: molho entregue. Estoque: 13
+Fornecedor: pão entregue. Estoque: 14
+Fornecedor: salsicha entregue. Estoque: 14
+Fornecedor: molho entregue. Estoque: 14
+Fornecedor: pão entregue. Estoque: 15
+Fornecedor: salsicha entregue. Estoque: 15
+Fornecedor: molho entregue. Estoque: 15
+Fornecedor: pão entregue. Estoque: 16
+Fornecedor: salsicha entregue. Estoque: 16
+Fornecedor: molho entregue. Estoque: 16
+Fornecedor: pão entregue. Estoque: 17
+Fornecedor: salsicha entregue. Estoque: 17
+Fornecedor: molho entregue. Estoque: 17
+Fornecedor: pão entregue. Estoque: 18
+Fornecedor: salsicha entregue. Estoque: 18
+Fornecedor: molho entregue. Estoque: 18
+Fornecedor: pão entregue. Estoque: 19
+Fornecedor: salsicha entregue. Estoque: 19
+Fornecedor: molho entregue. Estoque: 19
+Fornecedor: pão entregue. Estoque: 20
+Fornecedor: salsicha entregue. Estoque: 20
+Fornecedor: molho entregue. Estoque: 20
+Fornecedor: pão entregue. Estoque: 21
+Fornecedor: salsicha entregue. Estoque: 21
+Fornecedor: molho entregue. Estoque: 21
+Fornecedor: pão entregue. Estoque: 22
+Fornecedor: salsicha entregue. Estoque: 22
+Fornecedor: molho entregue. Estoque: 22
+Fornecedor: pão entregue. Estoque: 23
+Fornecedor: salsicha entregue. Estoque: 23
+Fornecedor: molho entregue. Estoque: 23
+Fornecedor: pão entregue. Estoque: 24
+Fornecedor: salsicha entregue. Estoque: 24
+Fornecedor: molho entregue. Estoque: 24
+Fornecedor: pão entregue. Estoque: 25
+Fornecedor: salsicha entregue. Estoque: 25
+Fornecedor: molho entregue. Estoque: 25
+Fornecedor: pão entregue. Estoque: 26
+Fornecedor: salsicha entregue. Estoque: 26
+Fornecedor: molho entregue. Estoque: 26
+Fornecedor: pão entregue. Estoque: 27
+Fornecedor: salsicha entregue. Estoque: 27
+Fornecedor: molho entregue. Estoque: 27
+Fornecedor: pão entregue. Estoque: 28
+Fornecedor: salsicha entregue. Estoque: 28
+Fornecedor: molho entregue. Estoque: 28
+Fornecedor: pão entregue. Estoque: 29
+Fornecedor: salsicha entregue. Estoque: 29
+Fornecedor: molho entregue. Estoque: 29
+Fornecedor: pão entregue. Estoque: 30
+Fornecedor: salsicha entregue. Estoque: 30
+Fornecedor: molho entregue. Estoque: 30
+Fornecedor: pão entregue. Estoque: 31
+Fornecedor: salsicha entregue. Estoque: 31
+Fornecedor: molho entregue. Estoque: 31
+Fornecedor: pão entregue. Estoque: 32
+Fornecedor: salsicha entregue. Estoque: 32
+Fornecedor: molho entregue. Estoque: 32
+Fornecedor: pão entregue. Estoque: 33
+Fornecedor: salsicha entregue. Estoque: 33
+Fornecedor: molho entregue. Estoque: 33
+Fornecedor: pão entregue. Estoque: 34
+Fornecedor: salsicha entregue. Estoque: 34
+Fornecedor: molho entregue. Estoque: 34
+Fornecedor: pão entregue. Estoque: 35
+Fornecedor: salsicha entregue. Estoque: 35
+Fornecedor: molho entregue. Estoque: 35
+Fornecedor: pão entregue. Estoque: 36
+Fornecedor: salsicha entregue. Estoque: 36
+Fornecedor: molho entregue. Estoque: 36
+Fornecedor: pão entregue. Estoque: 37
+Fornecedor: salsicha entregue. Estoque: 37
+Fornecedor: molho entregue. Estoque: 37
+Fornecedor: pão entregue. Estoque: 38
+Fornecedor: salsicha entregue. Estoque: 38
+Fornecedor: molho entregue. Estoque: 38
+Fornecedor: pão entregue. Estoque: 39
+Fornecedor: salsicha entregue. Estoque: 39

@@ -1,0 +1,145 @@
+./programa_vendedor_kikao
+Cliente 4: kikao indisponível
+Fornecedor: pão reabastecido. Estoque: 10
+Fornecedor: salsicha reabastecida. Estoque: 10
+Fornecedor: molho reabastecido. Estoque: 10
+Cliente 7: kikao recebido. Estoque: pão 9, salsicha 9, molho 9
+Cliente 7: kikao consumido
+Cliente 42: kikao recebido. Estoque: pão 8, salsicha 8, molho 8
+Cliente 42: kikao consumido
+Cliente 14: kikao recebido. Estoque: pão 7, salsicha 7, molho 7
+Cliente 14: kikao consumido
+Cliente 15: kikao recebido. Estoque: pão 6, salsicha 6, molho 6
+Cliente 15: kikao consumido
+Cliente 40: kikao recebido. Estoque: pão 5, salsicha 5, molho 5
+Cliente 40: kikao consumido
+Cliente 16: kikao recebido. Estoque: pão 4, salsicha 4, molho 4
+Cliente 16: kikao consumido
+Cliente 91: kikao recebido. Estoque: pão 3, salsicha 3, molho 3
+Cliente 91: kikao consumido
+Cliente 51: kikao recebido. Estoque: pão 2, salsicha 2, molho 2
+Cliente 51: kikao consumido
+Cliente 34: kikao recebido. Estoque: pão 1, salsicha 1, molho 1
+Cliente 34: kikao consumido
+Cliente 76: kikao recebido. Estoque: pão 0, salsicha 0, molho 0
+Cliente 76: kikao consumido
+Cliente 10: kikao indisponível
+Fornecedor: pão reabastecido. Estoque: 10
+Fornecedor: salsicha reabastecida. Estoque: 10
+Fornecedor: molho reabastecido. Estoque: 10
+Cliente 38: kikao recebido. Estoque: pão 9, salsicha 9, molho 9
+Cliente 38: kikao consumido
+Cliente 64: kikao recebido. Estoque: pão 8, salsicha 8, molho 8
+Cliente 64: kikao consumido
+Cliente 6: kikao recebido. Estoque: pão 7, salsicha 7, molho 7
+Cliente 6: kikao consumido
+Cliente 81: kikao recebido. Estoque: pão 6, salsicha 6, molho 6
+Cliente 81: kikao consumido
+Cliente 71: kikao recebido. Estoque: pão 5, salsicha 5, molho 5
+Cliente 71: kikao consumido
+Cliente 39: kikao recebido. Estoque: pão 4, salsicha 4, molho 4
+Cliente 39: kikao consumido
+Cliente 13: kikao recebido. Estoque: pão 3, salsicha 3, molho 3
+Cliente 13: kikao consumido
+Cliente 85: kikao recebido. Estoque: pão 2, salsicha 2, molho 2
+Cliente 85: kikao consumido
+Cliente 59: kikao recebido. Estoque: pão 1, salsicha 1, molho 1
+Cliente 59: kikao consumido
+Cliente 36: kikao recebido. Estoque: pão 0, salsicha 0, molho 0
+Cliente 36: kikao consumido
+Cliente 44: kikao indisponível
+Cliente 80: kikao indisponível
+Cliente 93: kikao indisponível
+Cliente 62: kikao indisponível
+Cliente 20: kikao indisponível
+Cliente 84: kikao indisponível
+Cliente 53: kikao indisponível
+Cliente 26: kikao indisponível
+Cliente 35: kikao indisponível
+Cliente 37: kikao indisponível
+Cliente 43: kikao indisponível
+Cliente 74: kikao indisponível
+Cliente 95: kikao indisponível
+Cliente 50: kikao indisponível
+Cliente 21: kikao indisponível
+Cliente 60: kikao indisponível
+Cliente 70: kikao indisponível
+Cliente 1: kikao indisponível
+Cliente 73: kikao indisponível
+Cliente 41: kikao indisponível
+Cliente 32: kikao indisponível
+Cliente 58: kikao indisponível
+Cliente 18: kikao indisponível
+Cliente 46: kikao indisponível
+Cliente 87: kikao indisponível
+Cliente 12: kikao indisponível
+Cliente 31: kikao indisponível
+Cliente 78: kikao indisponível
+Fornecedor: pão reabastecido. Estoque: 10
+Fornecedor: salsicha reabastecida. Estoque: 10
+Fornecedor: molho reabastecido. Estoque: 10
+Cliente 75: kikao recebido. Estoque: pão 9, salsicha 9, molho 9
+Cliente 75: kikao consumido
+Cliente 9: kikao recebido. Estoque: pão 8, salsicha 8, molho 8
+Cliente 9: kikao consumido
+Cliente 25: kikao recebido. Estoque: pão 7, salsicha 7, molho 7
+Cliente 25: kikao consumido
+Cliente 29: kikao recebido. Estoque: pão 6, salsicha 6, molho 6
+Cliente 29: kikao consumido
+Cliente 97: kikao recebido. Estoque: pão 5, salsicha 5, molho 5
+Cliente 97: kikao consumido
+Cliente 56: kikao recebido. Estoque: pão 4, salsicha 4, molho 4
+Cliente 56: kikao consumido
+Cliente 19: kikao recebido. Estoque: pão 3, salsicha 3, molho 3
+Cliente 19: kikao consumido
+Cliente 67: kikao recebido. Estoque: pão 2, salsicha 2, molho 2
+Cliente 67: kikao consumido
+Cliente 2: kikao recebido. Estoque: pão 1, salsicha 1, molho 1
+Cliente 2: kikao consumido
+Cliente 54: kikao recebido. Estoque: pão 0, salsicha 0, molho 0
+Cliente 54: kikao consumido
+Cliente 90: kikao indisponível
+Cliente 57: kikao indisponível
+Cliente 61: kikao indisponível
+Cliente 99: kikao indisponível
+Cliente 27: kikao indisponível
+Cliente 63: kikao indisponível
+Cliente 49: kikao indisponível
+Cliente 82: kikao indisponível
+Cliente 86: kikao indisponível
+Cliente 69: kikao indisponível
+Cliente 3: kikao indisponível
+Cliente 23: kikao indisponível
+Cliente 28: kikao indisponível
+Cliente 52: kikao indisponível
+Cliente 55: kikao indisponível
+Cliente 48: kikao indisponível
+Cliente 98: kikao indisponível
+Cliente 30: kikao indisponível
+Cliente 77: kikao indisponível
+Cliente 17: kikao indisponível
+Cliente 100: kikao indisponível
+Cliente 79: kikao indisponível
+Cliente 89: kikao indisponível
+Cliente 94: kikao indisponível
+Cliente 96: kikao indisponível
+Cliente 92: kikao indisponível
+Cliente 66: kikao indisponível
+Cliente 33: kikao indisponível
+Cliente 65: kikao indisponível
+Cliente 88: kikao indisponível
+Cliente 22: kikao indisponível
+Cliente 45: kikao indisponível
+Cliente 83: kikao indisponível
+Cliente 8: kikao indisponível
+Cliente 68: kikao indisponível
+Cliente 11: kikao indisponível
+Cliente 47: kikao indisponível
+Cliente 5: kikao indisponível
+Cliente 24: kikao indisponível
+Cliente 72: kikao indisponível
+Fornecedor: pão reabastecido. Estoque: 10
+Fornecedor: salsicha reabastecida. Estoque: 10
+Fornecedor: molho reabastecido. Estoque: 10
+Tempo médio de espera (segundos): 0.13 
+Clientes atendidos: 100
